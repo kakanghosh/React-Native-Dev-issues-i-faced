@@ -9,3 +9,7 @@ https://stackoverflow.com/questions/22475849/node-js-error-enospc/32600959#32600
 
 # Generate APK
 https://stackoverflow.com/questions/35935060/how-can-i-generate-an-apk-that-can-run-without-server-with-react-native
+
+# Could not find com.android.tools.lint:lint-gradle Android Studio 3
+
+https://stackoverflow.com/questions/46972122/could-not-find-com-android-tools-lintlint-gradle-android-studio-3
