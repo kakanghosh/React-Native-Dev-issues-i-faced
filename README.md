@@ -3,3 +3,6 @@
 # Compress APK size, migrate expo to react native
 
 https://medium.com/@aswinmohanme/how-i-reduced-the-size-of-my-react-native-app-by-86-27be72bba640
+
+# Solved ENOSPC error
+https://stackoverflow.com/questions/22475849/node-js-error-enospc/32600959#32600959
