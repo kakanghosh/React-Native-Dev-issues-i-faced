@@ -7,5 +7,5 @@ https://medium.com/@aswinmohanme/how-i-reduced-the-size-of-my-react-native-app-b
 # Solved ENOSPC error
 https://stackoverflow.com/questions/22475849/node-js-error-enospc/32600959#32600959
 
-#Generate APK 
+# Generate APK
 https://stackoverflow.com/questions/35935060/how-can-i-generate-an-apk-that-can-run-without-server-with-react-native
