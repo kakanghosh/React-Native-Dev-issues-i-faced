@@ -9,6 +9,18 @@ https://stackoverflow.com/questions/22475849/node-js-error-enospc/32600959#32600
 
 # Generate APK
 https://stackoverflow.com/questions/35935060/how-can-i-generate-an-apk-that-can-run-without-server-with-react-native
+# Splits abs (app/build.gradle)
+splits {
+        abi {
+            enable true
+            reset()
+            include 'x86', 'armeabi-v7a'
+            universalApk true
+        }
+    }
+ # remove ndk (app/build.gradle)
+ 
+ # add google() (android/build.gradle) in all project
 
 # Could not find com.android.tools.lint:lint-gradle Android Studio 3
 
